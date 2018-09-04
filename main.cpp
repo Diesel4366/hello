@@ -7,6 +7,6 @@ int main()
    cout <<"Hello from Di and DArt"<< endl;
    cout <<"<3"<<endl;
    cout <<" сделяль))) Diesel4366"<<endl;
-   cout << "Fork!" << endl;
+   cout << "Fcvvvcxvxcxcvxork!" << endl;
    return 0;
 }
